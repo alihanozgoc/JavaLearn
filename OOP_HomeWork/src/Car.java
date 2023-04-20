@@ -3,7 +3,6 @@ public class Car {
     public String bodyType;
     public String model;
     public int kmTraveled;
-
     public int price;
     public int doors;
 
